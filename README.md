@@ -1,11 +1,11 @@
 ![image](https://user-images.githubusercontent.com/62497897/187019730-030824a4-176c-4a2c-ad3c-d29f495e3d81.png)
 
-
+   
 
 ## private 34위, public 23위 / 1700
-https://dacon.io/competitions/official/235927/overview/description
-
-
+https://dacon.io/competitions/official/235927/overview/description   
+   
+   
 
 ## 데이터 탐구 후 발견.
 
