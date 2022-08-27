@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/62497897/187019730-030824a4-176c-4a2c-ad3c-d29f495e3d81.png)
 <br>
-## private 34위, public 23위 / 1700
+## public 23위, private 34위 / 1700
 https://dacon.io/competitions/official/235927/overview/description   
    
 <br><br>
