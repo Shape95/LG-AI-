@@ -3,6 +3,8 @@
 
 
 ## private 34위, public 23위 / 1700
+https://dacon.io/competitions/official/235927/overview/description
+
 
 
 ## 데이터 탐구 후 발견.
