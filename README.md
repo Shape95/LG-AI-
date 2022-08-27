@@ -1,3 +1,10 @@
+![image](https://user-images.githubusercontent.com/62497897/187019730-030824a4-176c-4a2c-ad3c-d29f495e3d81.png)
+
+
+
+### private 34위, public 23위 / 1700
+
+
 ## EDA 진행 후 발견.
 
 y_feature_spec_info 데이터를 통해 y에 대한 이상치 측정으로 
