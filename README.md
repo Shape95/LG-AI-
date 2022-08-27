@@ -2,10 +2,10 @@
 
 
 
-### private 34위, public 23위 / 1700
+## private 34위, public 23위 / 1700
 
 
-## EDA 진행 후 발견.
+## 데이터 탐구 후 발견.
 
 y_feature_spec_info 데이터를 통해 y에 대한 이상치 측정으로 
 
